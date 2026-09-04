@@ -1,0 +1,39 @@
+o
+<!DOCTYPE html>
+<html lang="en">
++<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>School Attendance System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>School Attendance System</h2>
+    
+    <!-- Add Student Form -->
+    <div class="form-group">
+      <input type="text" id="studentName" placeholder="Student Name">
+      <input type="number" id="rollNumber" placeholder="Roll Number">
+      <button onclick="addStudent()">Add Student</button>
+    </div>
+
+    <!-- Attendance Table -->
+    <table>
+      <thead>
+        <tr>
+          <th>Roll No</th>
+          <th>Name</th>
+          <th>Action</th>
+        </tr>
+      </thead>
+      <tbody id="studentList"></tbody>
+    </table>
+
+    <button class="save-btn" onclick="viewSummary()">View Today's Summary</button>
+    <div id="summary"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
