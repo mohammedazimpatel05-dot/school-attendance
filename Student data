@@ -1,0 +1,82 @@
+student_id,name,email,university,location,major,year,gpa
+STU-1001,Ethan Lewis,ethan.lewis01@utexas.edu,University of Texas at Austin,"Austin, TX",Business Administration,Junior,2.65
+STU-1002,Theodore Thompson,theodore.thompson02@ufl.edu,University of Florida,"Gainesville, FL",Business Administration,Sophomore,2.63
+STU-1003,Noah Perez,noah.perez03@osu.edu,Ohio State University,"Columbus, OH",Economics,Senior,3.73
+STU-1004,Avery Johnson,avery.johnson04@psu.edu,Pennsylvania State University,"University Park, PA",Economics,Junior,3.38
+STU-1005,Aria Harris,aria.harris05@uw.edu,University of Washington,"Seattle, WA",Computer Science,Junior,3.04
+STU-1006,Elizabeth Thomas,elizabeth.thomas06@asu.edu,Arizona State University,"Tempe, AZ",Mechanical Engineering,Sophomore,3.97
+STU-1007,Noah Torres,noah.torres07@purdue.edu,Purdue University,"West Lafayette, IN",Mechanical Engineering,Junior,3.12
+STU-1008,Evelyn Brown,evelyn.brown08@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Mathematics,Senior,3.69
+STU-1009,James Sanchez,james.sanchez09@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Economics,Freshman,2.79
+STU-1010,Elijah Baker,elijah.baker10@unc.edu,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Business Administration,Freshman,3.85
+STU-1011,Sofia Roberts,sofia.roberts11@wisc.edu,University of Wisconsin-Madison,"Madison, WI",Business Administration,Senior,3.08
+STU-1012,Emily Brown,emily.brown12@umich.edu,University of Michigan,"Ann Arbor, MI",Psychology,Freshman,3.75
+STU-1013,Aria King,aria.king13@utexas.edu,University of Texas at Austin,"Austin, TX",Environmental Science,Senior,3.36
+STU-1014,Chloe Anderson,chloe.anderson14@ufl.edu,University of Florida,"Gainesville, FL",Business Administration,Junior,3.23
+STU-1015,Scarlett Lee,scarlett.lee15@osu.edu,Ohio State University,"Columbus, OH",Data Science,Junior,3.34
+STU-1016,Alexander Hall,alexander.hall16@psu.edu,Pennsylvania State University,"University Park, PA",Mathematics,Sophomore,2.66
+STU-1017,Alexander Miller,alexander.miller17@uw.edu,University of Washington,"Seattle, WA",Mathematics,Senior,2.72
+STU-1018,Camila Hernandez,camila.hernandez18@asu.edu,Arizona State University,"Tempe, AZ",Mechanical Engineering,Junior,3.57
+STU-1019,Michael Jones,michael.jones19@purdue.edu,Purdue University,"West Lafayette, IN",Environmental Science,Sophomore,2.59
+STU-1020,Elijah Rodriguez,elijah.rodriguez20@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Business Administration,Sophomore,2.55
+STU-1021,Levi White,levi.white21@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Economics,Junior,3.42
+STU-1022,Jackson Wright,jackson.wright22@unc.edu,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Computer Science,Sophomore,3.95
+STU-1023,Noah Smith,noah.smith23@wisc.edu,University of Wisconsin-Madison,"Madison, WI",Economics,Junior,3.63
+STU-1024,Ethan Clark,ethan.clark24@umich.edu,University of Michigan,"Ann Arbor, MI",Mathematics,Junior,2.58
+STU-1025,Benjamin Young,benjamin.young25@utexas.edu,University of Texas at Austin,"Austin, TX",Electrical Engineering,Sophomore,3.3
+STU-1026,Emma Robinson,emma.robinson26@ufl.edu,University of Florida,"Gainesville, FL",Economics,Freshman,3.06
+STU-1027,Owen Lewis,owen.lewis27@osu.edu,Ohio State University,"Columbus, OH",Biology,Senior,3.36
+STU-1028,Luna Ramirez,luna.ramirez28@psu.edu,Pennsylvania State University,"University Park, PA",Data Science,Junior,2.87
+STU-1029,Charlotte Ramirez,charlotte.ramirez29@uw.edu,University of Washington,"Seattle, WA",Biology,Senior,3.26
+STU-1030,Elizabeth Harris,elizabeth.harris30@asu.edu,Arizona State University,"Tempe, AZ",Electrical Engineering,Senior,2.84
+STU-1031,Jackson Gonzalez,jackson.gonzalez31@purdue.edu,Purdue University,"West Lafayette, IN",Mathematics,Sophomore,2.66
+STU-1032,Jackson Rodriguez,jackson.rodriguez32@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Economics,Junior,2.83
+STU-1033,Camila Anderson,camila.anderson33@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Psychology,Freshman,3.29
+STU-1034,Asher Carter,asher.carter34@unc.edu,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Environmental Science,Senior,2.8
+STU-1035,Olivia Williams,olivia.williams35@wisc.edu,University of Wisconsin-Madison,"Madison, WI",Computer Science,Freshman,4.0
+STU-1036,Asher Johnson,asher.johnson36@umich.edu,University of Michigan,"Ann Arbor, MI",Data Science,Sophomore,2.45
+STU-1037,Ella Allen,ella.allen37@utexas.edu,University of Texas at Austin,"Austin, TX",Computer Science,Freshman,2.63
+STU-1038,Aria Sanchez,aria.sanchez38@ufl.edu,University of Florida,"Gainesville, FL",Psychology,Freshman,3.48
+STU-1039,William Taylor,william.taylor39@osu.edu,Ohio State University,"Columbus, OH",Psychology,Sophomore,3.41
+STU-1040,Charlotte Perez,charlotte.perez40@psu.edu,Pennsylvania State University,"University Park, PA",Computer Science,Freshman,3.21
+STU-1041,Mia Lewis,mia.lewis41@uw.edu,University of Washington,"Seattle, WA",Mechanical Engineering,Junior,3.48
+STU-1042,Theodore Sanchez,theodore.sanchez42@asu.edu,Arizona State University,"Tempe, AZ",Mechanical Engineering,Senior,2.96
+STU-1043,Elijah Green,elijah.green43@purdue.edu,Purdue University,"West Lafayette, IN",Computer Science,Sophomore,3.23
+STU-1044,Scarlett Smith,scarlett.smith44@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Mathematics,Freshman,3.88
+STU-1045,Eleanor Adams,eleanor.adams45@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Mechanical Engineering,Freshman,2.68
+STU-1046,Chloe Carter,chloe.carter46@unc.edu,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Data Science,Senior,3.94
+STU-1047,Oliver Torres,oliver.torres47@wisc.edu,University of Wisconsin-Madison,"Madison, WI",Electrical Engineering,Sophomore,2.96
+STU-1048,Chloe Thomas,chloe.thomas48@umich.edu,University of Michigan,"Ann Arbor, MI",Mechanical Engineering,Senior,3.05
+STU-1049,Michael White,michael.white49@utexas.edu,University of Texas at Austin,"Austin, TX",Biology,Freshman,2.66
+STU-1050,Avery Flores,avery.flores50@ufl.edu,University of Florida,"Gainesville, FL",Biology,Junior,3.0
+STU-1051,Alexander Wright,alexander.wright51@osu.edu,Ohio State University,"Columbus, OH",Mathematics,Freshman,2.66
+STU-1052,Evelyn Johnson,evelyn.johnson52@psu.edu,Pennsylvania State University,"University Park, PA",Psychology,Sophomore,3.99
+STU-1053,Sofia Allen,sofia.allen53@uw.edu,University of Washington,"Seattle, WA",Biology,Freshman,2.92
+STU-1054,Harper Davis,harper.davis54@asu.edu,Arizona State University,"Tempe, AZ",Electrical Engineering,Junior,2.89
+STU-1055,Chloe Lopez,chloe.lopez55@purdue.edu,Purdue University,"West Lafayette, IN",Mechanical Engineering,Junior,2.8
+STU-1056,Eleanor Nguyen,eleanor.nguyen56@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Psychology,Sophomore,3.83
+STU-1057,Jackson Clark,jackson.clark57@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Data Science,Sophomore,3.43
+STU-1058,Jacob Allen,jacob.allen58@unc.edu,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Economics,Freshman,3.2
+STU-1059,Emma Wright,emma.wright59@wisc.edu,University of Wisconsin-Madison,"Madison, WI",Computer Science,Freshman,3.99
+STU-1060,Eleanor Lewis,eleanor.lewis60@umich.edu,University of Michigan,"Ann Arbor, MI",Economics,Senior,3.6
+STU-1061,Sebastian White,sebastian.white61@utexas.edu,University of Texas at Austin,"Austin, TX",Computer Science,Junior,3.32
+STU-1062,Michael Lee,michael.lee62@ufl.edu,University of Florida,"Gainesville, FL",Electrical Engineering,Sophomore,3.18
+STU-1063,Evelyn Harris,evelyn.harris63@osu.edu,Ohio State University,"Columbus, OH",Environmental Science,Senior,3.51
+STU-1064,Scarlett Rivera,scarlett.rivera64@psu.edu,Pennsylvania State University,"University Park, PA",Business Administration,Freshman,3.47
+STU-1065,Levi Johnson,levi.johnson65@uw.edu,University of Washington,"Seattle, WA",Environmental Science,Senior,3.59
+STU-1066,Michael Rodriguez,michael.rodriguez66@asu.edu,Arizona State University,"Tempe, AZ",Psychology,Sophomore,2.87
+STU-1067,Gianna Wright,gianna.wright67@purdue.edu,Purdue University,"West Lafayette, IN",Data Science,Senior,3.86
+STU-1068,Elijah Scott,elijah.scott68@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Biology,Junior,3.52
+STU-1069,Mia Wilson,mia.wilson69@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Mechanical Engineering,Sophomore,3.0
+STU-1070,Olivia Young,olivia.young70@unc.edu,University of North Carolina at Chapel Hill,"Chapel Hill, NC",Electrical Engineering,Junior,2.93
+STU-1071,Luna Perez,luna.perez71@wisc.edu,University of Wisconsin-Madison,"Madison, WI",Computer Science,Freshman,3.72
+STU-1072,Owen Torres,owen.torres72@umich.edu,University of Michigan,"Ann Arbor, MI",Computer Science,Senior,2.83
+STU-1073,Aria Jones,aria.jones73@utexas.edu,University of Texas at Austin,"Austin, TX",Electrical Engineering,Freshman,2.48
+STU-1074,Eleanor Campbell,eleanor.campbell74@ufl.edu,University of Florida,"Gainesville, FL",Mechanical Engineering,Junior,3.56
+STU-1075,Benjamin Roberts,benjamin.roberts75@osu.edu,Ohio State University,"Columbus, OH",Environmental Science,Sophomore,3.67
+STU-1076,Theodore Ramirez,theodore.ramirez76@psu.edu,Pennsylvania State University,"University Park, PA",Environmental Science,Freshman,2.44
+STU-1077,Levi Rodriguez,levi.rodriguez77@uw.edu,University of Washington,"Seattle, WA",Economics,Freshman,3.86
+STU-1078,Jacob King,jacob.king78@asu.edu,Arizona State University,"Tempe, AZ",Psychology,Junior,3.46
+STU-1079,Liam Thomas,liam.thomas79@purdue.edu,Purdue University,"West Lafayette, IN",Electrical Engineering,Junior,3.1
+STU-1080,Mateo Williams,mateo.williams80@illinois.edu,University of Illinois Urbana-Champaign,"Champaign, IL",Environmental Science,Sophomore,3.61
+STU-1081,Mateo Wilson,mateo.wilson81@gatech.edu,Georgia Institute of Technology,"Atlanta, GA",Economics,Freshman,2.9
